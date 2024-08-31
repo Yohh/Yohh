@@ -1,4 +1,4 @@
-## Hi there I'm Yohh 🐙
+## Hi there I'm Yoh 🐙
 
 - ⚒️ I’m currently working on [OSRD](https://github.com/OpenRailAssociation/osrd) and [OSRD-UI](https://github.com/OpenRailAssociation/osrd-ui)
 - 🎨 In my free time I'm creating a graphical editor plugin for the [Obsidian](https://obsidian.md/) community
