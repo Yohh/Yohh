@@ -41,8 +41,4 @@
   <a href="https://www.linkedin.com/in/yohan-durand-808483243">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" title="linkedin" />
   </a>
-<img width="12" />
-  <a href="https://buymeacoffee.com/yohh">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="40" alt="buy me a coffee" title="buy me a coffee" />
-  </a>
 </div>
