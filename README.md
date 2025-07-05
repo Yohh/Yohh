@@ -1,6 +1,6 @@
 # Hi there, I'm Yoh 🐙
 
-**WEB developer, in love with free or open-source solutions**
+**WEB developer, in love with open-source solutions**
 
 - ⚒️ I’m currently working on [OSRD](https://github.com/OpenRailAssociation/osrd) and [OSRD-UI](https://github.com/OpenRailAssociation/osrd-ui)
 - 🎨 In my free time I'm creating a graphical editor plugin for the [Obsidian](https://obsidian.md/) community
