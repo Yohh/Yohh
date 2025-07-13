@@ -2,7 +2,7 @@
 
 **WEB developer, in love with open-source solutions**
 
-- ⚒️ I’m currently working on [OSRD](https://github.com/OpenRailAssociation/osrd) and [OSRD-UI](https://github.com/OpenRailAssociation/osrd-ui)
+- ⚒️ I’m currently working on [OSRD](https://github.com/OpenRailAssociation/osrd)
 - 🎨 In my free time I'm creating a graphical editor plugin for the [Obsidian](https://obsidian.md/) community
 
 ## Main Tech
