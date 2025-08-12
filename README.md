@@ -44,7 +44,11 @@
 ## Social
 
 <div align="left">
+  <a href="https://mastodon.social/@Yohh">
+    <img src="https://github.com/mastodon/mastodon/blob/main/app/javascript/icons/favicon-48x48.png" height="40" width="40" alt="mastodon" title="mastodon" />
+  </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/yohan-durand-808483243">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="linkedin" title="linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="linkedin" title="linkedin" />
   </a>
 </div>
